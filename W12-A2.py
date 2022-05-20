@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 L=[I for I in input().split(" ")]
 #L=['ram', 'shyam', 'lakshami!']
 ans=[]

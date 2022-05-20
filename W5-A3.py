@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 L = [int(i) for i in input().split()]
 prime = int(0)
 for item in L:

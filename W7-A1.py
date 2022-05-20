@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 def DiagCalc(M):
   row=len(M)
   column=len(M[0])

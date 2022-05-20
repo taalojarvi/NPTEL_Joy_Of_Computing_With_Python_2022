@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 def Transpose(M):
 N=[]
     row=len(M)

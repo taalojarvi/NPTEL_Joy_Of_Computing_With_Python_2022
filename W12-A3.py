@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 L=str(input())
 
 instit=str() 

@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 def subStr(s1,s2):
   x=bool("true")
   if s2 in s1:

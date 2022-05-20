@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 L = [int(i) for i in input().split()]
 X=sorted(L)
 Y=sorted(L,reverse=True)

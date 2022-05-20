@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 S = input()
 answer=""
 uppercase=list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")

@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 x=input()
 a=int(x)
 disp=int(0)

@@ -1,3 +1,5 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
 A=int(input())
 B=int(input())
 C=int(input())
